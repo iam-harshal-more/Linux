@@ -12,7 +12,7 @@
 
 
 
-What is Linux
+# What is Linux
 
 	• Linux is a type of operating system, similar to Windows or macOS. 
 
@@ -22,9 +22,8 @@ What is Linux
 
 	• It was developed in 1960s
 
-	• Many organizations and companies have created different versions of the base system with lots of extra features and improvements.
-
-Features of Linux
+	• Many organizations and companies have created different versions of the base system with lots of extra features and improvements. 
+# Features of Linux
 
 Linux offers a range of features, including:
 
@@ -43,7 +42,7 @@ Linux offers a range of features, including:
 	7. Cost-effective: It's often free to use and distribute, reducing costs for businesses and individuals.
 
 
-Type of Linux
+# Type of Linux
 	
 		a. Ubuntu
 		b. Fedora
@@ -56,7 +55,7 @@ Type of Linux
 		i. Red Hat Enterprise Linux (RHEL)
 
 
-Components of Linux
+# Components of Linux
 
 ![image](https://github.com/iam-harshal-more/Linux/assets/91710794/77359380-5e3b-48ef-9160-f4f04825e4fe)
 
@@ -85,7 +84,7 @@ Components of Linux
 	
 	
 	
-Command Execution Flow
+# Command Execution Flow
 ![Uploading image.png…]()
 
 
