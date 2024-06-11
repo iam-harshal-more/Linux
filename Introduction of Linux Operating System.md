@@ -86,6 +86,7 @@ Components of Linux
 	
 	
 Command Execution Flow
+![Uploading image.png…]()
 
 
 				
