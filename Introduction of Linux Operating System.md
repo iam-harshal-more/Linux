@@ -58,6 +58,7 @@ Type of Linux
 
 Components of Linux
 
+![image](https://github.com/iam-harshal-more/Linux/assets/91710794/77359380-5e3b-48ef-9160-f4f04825e4fe)
 
 		
 
